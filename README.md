@@ -13,5 +13,14 @@ This repository contains a reproducible NS-3 simulation for a MANET wormhole att
 Run:
 run.bat
 
+## Execution (Step-by-step)
+
+1. Install NS-3 (version 3.46 or similar)
+2. Copy the file into:
+   ns-3/scratch/
+
+3. Run the simulation:
+
+./waf --run scratch/manet-wormhole-exp
 ## Notes
 This scenario is illustrative and supports a research study.
