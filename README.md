@@ -20,8 +20,8 @@ This repository contains a reproducible NS-3 simulation for a MANET wormhole att
 
 3. Build and run:
 
-   ./waf build
-   ./waf --run scratch/manet-wormhole-exp
+   ./ns3 build
+   ./ns3 --run scratch/manet-wormhole-exp
 
 ## Notes
 
